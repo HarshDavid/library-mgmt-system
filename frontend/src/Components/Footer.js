@@ -31,7 +31,7 @@ function Footer() {
                         <h1>Librarian</h1>
                         <p>Name</p>
                         <p>Education</p>
-                        <p>Contact: +91 9191919191</p>
+                        <p>Contact: +91 0000000000</p>
                     </div>
                 </div>
                 <div className="contact-social" >
@@ -42,7 +42,7 @@ function Footer() {
                 </div>
             </div>
             <div className='copyright-details'>
-                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed with ❤️ by dheeraj</span></p>
+                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed with harsh</span></p>
             </div>
         </div>
     )
